@@ -17,11 +17,14 @@
             <option value="$PROJECT_DIR$/Problems/Accordance" />
             <option value="$PROJECT_DIR$/Problems/Area of a circle" />
             <option value="$PROJECT_DIR$/Problems/Balance checker" />
+            <option value="$PROJECT_DIR$/Problems/Beyond the word" />
+            <option value="$PROJECT_DIR$/Problems/Check the numbers" />
             <option value="$PROJECT_DIR$/Problems/Check the sum" />
             <option value="$PROJECT_DIR$/Problems/Collatz conjecture" />
             <option value="$PROJECT_DIR$/Problems/Corners" />
             <option value="$PROJECT_DIR$/Problems/Cube of zeros" />
             <option value="$PROJECT_DIR$/Problems/Difference of times" />
+            <option value="$PROJECT_DIR$/Problems/First digit" />
             <option value="$PROJECT_DIR$/Problems/Fix compile-time errors" />
             <option value="$PROJECT_DIR$/Problems/Guard On The Gate" />
             <option value="$PROJECT_DIR$/Problems/Harry Potter" />
@@ -42,6 +45,7 @@
             <option value="$PROJECT_DIR$/Problems/The number of digits" />
             <option value="$PROJECT_DIR$/Problems/Triangle" />
             <option value="$PROJECT_DIR$/Problems/Triples" />
+            <option value="$PROJECT_DIR$/Problems/Unique characters" />
             <option value="$PROJECT_DIR$/util" />
           </set>
         </option>
